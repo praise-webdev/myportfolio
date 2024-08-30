@@ -1,0 +1,131 @@
+head, ul {
+    background-color: lightslategray;
+    color:white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+head, ul :hover{
+   background-color: gold;
+    color: green;
+}
+
+
+.head, ul, li {
+    padding: 0 35px;
+    margin: 20px 0;
+    list-style-type: none;
+} 
+
+.head, ul, li, a {
+    color: white;
+    text-decoration: none;
+
+    
+}
+
+     
+.column1 {
+    width: 50%;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+.table {
+    margin: 0 40%;
+}
+
+footer {
+    display: flex;
+}
+
+.column2 {
+    width: 33%;
+}
+
+.column2, h2 {
+    text-align: center;
+}
+
+.column2, .footer_list, li {
+    display: list-item;
+}
+
+
+head, .font{
+     background-color: lightslategray;
+     color: white ;
+    padding: 9px;
+    
+}
+
+.class{
+  text-align: center;
+
+}
+
+/* GALLERY */
+
+#image_container {
+    box-sizing: content-box;
+   background-color: red ;
+}
+
+.item_grid {
+    display: inline-block;
+    margin: 15px;
+    width: 50%;
+    justify-content: center;
+}
+
+.item_grid, img {
+    width: 40%;
+    height: 40%;
+    justify-content: center;
+    text-align: center;
+
+}
+
+'font {
+    text-shadow:  0 0 8px #FF0000;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

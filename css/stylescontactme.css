@@ -1,0 +1,130 @@
+head, ul :hover{
+ background-color: gold;
+ color: green;
+
+}
+head, ul, li {
+    padding: 0 35px;
+    margin: 20px 0;
+    list-style-type: none;
+} 
+
+.head, ul, li, a {
+    color: white;
+    text-decoration: none;
+} 
+
+head, ul, .my00 {
+    background-color:black;
+    color:white;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+.head, ul, li, a {
+    color: white;
+    text-decoration: none;
+} 
+
+
+.myimage {
+    width: 40%;
+    height: 70vh;
+    text-align: left;
+}
+
+
+   body, .font{
+
+     text-align: center;
+    justify-content: center;
+     
+
+
+    
+
+   } 
+
+HEAD, .BOOK{
+   justify-content: center;
+   background-color: lightslategray;
+   color: black;
+    
+
+
+}
+
+h4,  .story{
+   background-color: lightslategray;
+   text-align: left;
+   padding: 40px;
+   
+}
+
+
+
+
+.column1 {
+    width: 50%;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 9px;
+}
+
+.table {
+    margin: 0 40%;
+}
+
+footer {
+    display: flex;
+}
+
+.column2 {
+    width: 33%;
+}
+
+.column2, h2 {
+    text-align: center;
+    
+}
+
+.column2, .footer_list, li {
+    display: list-item;
+    padding: 3px;
+}
+ .column3{
+  text-align: center;
+  padding: 40px;
+  margin: 10px;
+  
+}
+
+.column4{
+padding: 95px;
+margin: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
