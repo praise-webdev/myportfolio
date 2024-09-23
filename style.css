@@ -1,0 +1,46 @@
+#gallary1 :hover{
+  background-color: gold;
+  color: green;
+
+  
+}
+.life{
+
+ text-align: center;
+ list-style-type: none;
+ display: flex;
+ 
+
+}
+
+.real{
+  text-align: center;
+
+
+}
+
+
+.ee{
+  text-align: center;
+
+}
+#gallery_image {
+  position: relative;
+ justify-content: center;
+}
+  
+#sendbutton {
+ margin-left: 60px;
+
+}
+
+
+
+.praise{
+
+  text-align: center;
+  background-color: lightslategray;
+  padding: 10px;
+  color: white;
+
+}
